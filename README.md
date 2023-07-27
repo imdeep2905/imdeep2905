@@ -69,15 +69,6 @@
 <a href="https://www.reddit.com/user/deepraval2905/" target="_blank">
   <img align="center" alt="Deep's Reddit" src="https://img.icons8.com/fluent/48/000000/reddit.png" />
 </a>
-&nbsp;
-<a href="https://t.me/imdeep2905" target="_blank">
-  <img align="center" alt="Deep's Telegram" src="https://img.icons8.com/color/48/000000/telegram-app.png" />
-</a>
-&nbsp;
-<a href="https://discord.gg/qFYW3Ks" target="_blank">
-  <img align="center" alt="Deep's Discord" src="https://img.icons8.com/fluent/48/000000/discord-logo.png" />
-</a>
-&nbsp;
 </p>
 
 <h3 align="center">Show some :heart: by starring some of the repositories!</h3>
